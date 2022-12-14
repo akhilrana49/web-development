@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <title>Login</title>
+ <style type="text/css">
+ .container{
+ border: 1px solid grey;
+ border-radius: 5px;
+ width: 450px;
+ height: 470px;
+ position: absolute;
+ left: 50%;
+ top: 50%;
+ transform: translate(-50%, -50%);
+ display: block;
+ }
+ .signup,.signin{
+ border-radius: 5px;
+ background-color: #5cb85c;
+ color: white;
+ padding: 10px;
+ border-style:outset;
+ border-color: #5cb85c;
+ font:bold 15px arial,sans-serif;
+ text-shadow:none;
+ cursor: pointer;
+ margin-left: 60px;
+ margin-right: 60px;
+ }
+ </style>
+</head>
+<body>
+ <div class="container">
+ <center><h2 style="background-color: orange;color: white;padding: 0.5em;">Web-D</h2><h2>Sign-In</h2></center>
+ <form action="ques4.php" method="post">
+ <center><input type="email" name="email" id="email" placeholder="Email" style="padding: 1.3em;width: 330px;" minlength="3"
+required autofocus>
+ <br><br><br>
+ <input type="password" name="password" id="pwd" placeholder="Password" style="padding: 1.3em;width: 330px;" minlength="8"
+maxlength="20" required></center>
+ <br><br><br><br>
+ <center>
+ <input type="submit" name="login" value="Sign-in" class="signin">
+ </center>
+ </form>
+ </div>
+</body>
+</html>
+Php
+<?php
+ $servername = "localhost";
+ $username = "root";
+ $password = "";
+ $dbname = "DUSC";
+ $conn=new mysqli($servername, $username, $password,$dbname);
+ if ($conn->connect_error) {
+ die("Connection failed: " . $conn->connect_error);
+ }
+ $username=$_POST['email'];
+ $userpwd=$_POST['password'];
+ function validate_email()
+ {
+ global $conn,$username;
+ $sql = "SELECT email from profiles";
+ if ($result = mysqli_query($conn, $sql))
+ {
+ while($row = mysqli_fetch_assoc($result))
+ {
+ if($row["email"]==$username)
+ return true;
+ }
+ return false;
+ mysqli_free_result($result);
+ }
+ else
+ {
+ return false;
+ } 
+ }
+ 
+ function validate_pwd()
+ {
+ global $conn,$username,$userpwd;
+ $sql = "SELECT Userpwd FROM profiles WHERE email='$username'";
+ if($result = mysqli_query($conn,$sql))
+ {
+ if (mysqli_num_rows($result) > 0)
+ {
+ $row = mysqli_fetch_assoc($result);
+ if($row["Userpwd"]==$userpwd)
+ return true;
+ else 
+ return false;
+ }
+ else
+ {
+ return false;
+ }
+ }
+ else
+ return false;
+ }
+ if (isset($_POST["login"])) {
+ if(validate_email())
+ {
+ if(validate_pwd())
+ {
+ echo "Welcome $username";
+ }
+ else
+ {
+ echo "<script>alert('INVALID PASSWORD');parent.location.href='Login.html';</script>";
+ }
+ }
+ else
+ {
+ echo "<script>alert('INVALID EMAIL');parent.location.href='Login.html';</script>";
+ }
+ }
+$conn->close();
+?>
