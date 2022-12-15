@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Movie</title>
+ <link rel="stylesheet" href="prac1.css">
+</head>
+<body>
+ <h1 style="text-align: center;">TAARE ZAMEEN PAR</h1>
+ <p>
+ <strong>Release Date : </strong> 21 Dec 2007 <br>
+ <strong>Genre :</strong> Kids <br>
+ <strong>Director :</strong> Amir Khan <br>
+ <strong>Budget :</strong> 2 Cr <br>
+ </p>
+ <center>
+ <div class="poster">
+ <img src="https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+ alt="error image" width="500px">
+ <img src="https://m.media-amazon.com/images/M/MV5BYjY0MGU3MmQtMGVhOS00M2IyLWI1MTktZGUxMzBjMTE5ZDA3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+ alt="error image" width="500px">
+ </div>
+ </center>
+ <h4>Movie Plot</h4>
+ <p>
+ Ishaan Nandkishore Awasthi is an 8-year-old boy who has trouble following school, though he is assumed
+ by all to hate learning, and is belittled for it. His imagination, creativity, and talent for art and
+ painting are often disregarded. His father, Nandkishore Awasthi, is a successful executive who expects
+ his sons to excel, and his mother, Maya Awasthi, is a housewife frustrated by her inability to educate
+ Ishaan. Ishaan's elder brother, Yohan Awasthi, is an exemplary student and a tennis player in whose
+ shadow Ishaan remains. One day, Ishaan and his parents are called by Ishaan's principal to discuss his
+ failures in class. Fed up of hearing Ishaan's failures and lack of improvement, Nandkishore sends
+ Ishaan, mid-term, to a boarding school. Alone there, he rapidly sinks into a state of fear, anxiety, and
+ depression, which is only worsened by the teachers there and their strict and abusive regime. His only
+ friend is Rajan Damodaran, a physically disabled boy who is one of the top students and resides with his
+ family there, as his father is part of the school's board. Ishaan contemplates suicide one day, but
+ Rajan prevents him.
+ Ram Shankar Nikumbh, a cheerful and optimistic instructor at the Tulips School for young children with
+ developmental disabilities, joins the boarding school the same day, replacing the authoritarian Mr.
+ Holkar, the school's former art teacher. Ram's teaching style is markedly different from that of
+ Holkar's, and he quickly notes Ishaan's unhappiness that day after he fails to draw anything during the
+ class. He reviews Ishaan's work and concludes that his academic shortcomings are indicative of dyslexia.
+ Ram then visits the Awasthis in Mumbai, where he is surprised to discover Ishaan's hidden interest in
+ art. Flustered, he demonstrates to Maya and Yohan how Ishaan has extreme difficulty in understanding
+ letters and words due to dyslexia, and his poverty in sports skills stems from his poor motor ability.
+ Nandkishore labels it as an intellectual disability and dismisses it as laziness.
+ Back at school, Ram brings up the topic of dyslexia in a class by offering a list of famous dyslexic
+ people. He comforts Ishaan, telling him how he struggled as a child as well. Ram obtains the principal's
+ permission to become Ishaan's tutor. With gradual care, he works to improve Ishaan's reading and writing
+ by using remedial techniques developed by dyslexia specialists. Eventually, both Ishaan's demeanor and
+ his grades improve. One day Nandkishore visits the school and tells Ram that he and his wife have read
+ up on Dyslexia and understand the condition. Ram mentions that what Ishaan needs more than understanding
+ is that someone loves him. Outside Nandkishore sees Ishaan reading from a board. With teary eyes, he is
+ unable to face his son and walks away.
+ At the end of the school year, Ram organises an arts and crafts contest for the staff and students,
+ judged by artist Lalita Lajmi. Ishaan's work makes him the winner and Ram, who paints Ishaan's portrait,
+ is declared the runner-up. The principal announces that Ram has been hired as the school's permanent art
+ teacher. When Ishaan's parents meet his teachers on the last day of school, they are left speechless by
+ the transformation in him. Overcome with emotion, Nandkishore thanks Ram. Before leaving, Ishaan runs
+ toward Ram, who lifts him high up in a hug.
+ </p>
+ <h4>Movie Cast</h4>
+ <div class="image">
+ <ul>
+ <li><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Darsheel_Safary_Mumbai_Juniorthon_%28cropped%29.jpg"
+ alt="" width="100px"> Darsheel Safari</li>
+ <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Aamir_Khan_From_The_NDTV_Greenathon_at_Yash_Raj_Studios_%2811%29.jpg/440pxAamir_Khan_From_The_NDTV_Greenathon_at_Yash_Raj_Studios_%2811%29.jpg"
+ alt="" width="100px">Amir Khan</li>
+ <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tisca_Chopra_%283650%29.jpg/440px-Tisca_Chopra_%283650%29.jpg"
+ alt="" width="100px">Tisca Chopra</li>
+ <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vipin_Sharma_at_the_launch_of_Shubra_Harsha_Verma%E2%80%99s_book_%E2%80%98Zero_The_Striptease_of_Conscience%E2%80%99.jpg/
+440px-Vipin_Sharma_at_the_launch_of_Shubra_Harsha_Verma%E2%80%99s_book_%E2%80%98Zero_The_Striptease_of_Conscience%E2%80%99.jpg"
+ alt="" width="100px">Vipin Sharma</li>
+ </ul>
+ </div>
+ <h4>Similar Movies</h4>
+ <ol>
+ <a href="https://en.wikipedia.org/wiki/Bumm_Bumm_Bole">Bum Bum bole</a><br>
+ <a href="https://en.wikipedia.org/wiki/3_Idiots">3 Idiots</a><br>
+ <a href="https://en.wikipedia.org/wiki/Zokkomon">Zokomon</a><br>
+ </ol>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Practical 2:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Dummy College</title>
+ <link rel="stylesheet" href="prac2.css">
+ 
+</head>
+<body>
+ <center>
+ <!-- <h1 style="text-align: center;">Dummy College</h1> -->
+ <table style="width: 90%;" cellspacing="0" width="640px" height="450px">
+ <tr>
+ <td colspan="4">
+ <header>
+ <h3 style="text-align: center;">DEEN DAYAL UPADHYAYA COLLEGE</h3>
+ <h4 style="text-align: center;">UNIVERSITY OF DELHI</h4>
+ <center>
+ <img src="logo.png" alt="error image">
+ <img src="University_of_Delhi.png" alt="error image" width="200px">
+ </center>
+ </header>
+ </td>
+ </tr>
+ <tr>
+ <td colspan="4">
+ <nav>
+ <h4>Other relevant links</h4>
+ <a href="https://dducollegedu.ac.in/#" target="_blank">courses</a> <br>
+ <a href="https://dducollegedu.ac.in/#" target="_blank">Departments</a> <br>
+ <a href="https://dducollegedu.ac.in/#" target="_blank">Hostel</a> <br>
+ <a href="https://dducollegedu.ac.in/#" target="_blank">Achievements</a> <br>
+ </nav>
+ </td>
+ </tr>
+ <tr>
+ <td style="width: 50%;">
+ <div id="message">
+ <h3>Prof Hemchand Jain</h3> <br>
+ <h5>Principal</h5> <br>
+ <center>
+ <img src="Principal.png" alt="error image" width="100px" height="100px">
+ </center>
+ <p>
+ 
+ Dear Students
+ Welcome to the DDUC parivar.
+ Higher Education does not simply mean an arithmetic progression from Class XII to an
+ Undergraduate
+ Programme. It means, a qualitative leap into matured thinking, responsible conduct and
+ taking
+ charge
+ of one’s career and life ahead. It is a leap not onto a stepping-stone but onto a path of
+ lifelong
+ learning. In the three-year time that you will spend here, our endeavour shall be to usher
+ you
+ to
+ this path. So, look forward to an exciting year and fulfilling and fulfilled stay at the
+ college.
+ You will be the first batch of a three-year choice based-credit system of undergraduate
+ studies.
+ This is a nation-wide, uniform curriculum implemented by the University Grants Commission.
+ The
+ underlying spirit has been to facilitate inter-university migration and transfer of academic
+ credits. Thus, if you choose or need to migrate to some other university within India and
+ eventually
+ abroad during the currency of a programme, you will be able to do so and take your credits
+ earned
+ along. You will not have to start afresh. The word ‘choice’ implies the doing away with the
+ rigidities of a fixed curriculum. You shall have a bouquet of papers to choose from and
+ design,
+ as
+ if it were, your own subject combinations from your own core discipline, other disciplines
+ and
+ skill
+ based courses. We shall handhold you in making the right choices.
+ Managing transition, however, is not easy. We have learnt this art through successful
+ transition
+ from annual to the semester mode, from a three-year to a four-year and back to three-year
+ undergraduate programme. To facilitate the transition further, we are embarking on a
+ student-mentoring programme with a view to attending to your scholastic, coscholastic and
+ extra-curricular -activity related needs and requirements. We have designed an academic
+ calendar
+ too, that we shall be duly unveiling. During the upcoming year we shall also be relocated to
+ our
+ new
+ campus at Dwarka. It shall be our collective responsibility to ensure that our migration to
+ the
+ new
+ locality and transition to the new building is smooth.
+ Feel free to share your aspirations, accomplishments and anxieties with your mentors. You
+ are
+ most
+ welcome to get in touch with me at principaldducollege@gmail.com.</p>
+ </div>
+ </td>
+ <td style="width: 50%;">
+ <div id="notice">
+ <h4>Notice</h4>
+ <ul>
+ <li>Cucet result will be declared on 25th october 2022</li>
+ <li>All 3rd semester students are requested to fill the examination form</li>
+ <li>5th semested students are requested to pay their semester fee</li>
+ <li>College will remain close on diwali</li>
+ <li>1st semester students are requested to collect to their library card from the college
+ library
+ </li>
+ </ul>
+ </div>
+ </td>
+ </tr>
+ <tr>
+ <td colspan="4">
+ <h3>Gallery</h3>
+ <img src="https://180dc.org/wp-content/uploads/2021/02/IMG_8108-1-300x225.jpg" alt="">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsvaSFu9RowYeVfYBv1JIp5LQlWzGdfKLFQ&usqp=CAU"
+ alt="">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwe26SRxla5P4CWU9G1_KGQvhWrWwWB6hgQ&usqp=CAU"
+ alt="">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuEYwJN2kpi8wLHzHMWyQ3QBUBL3hItYglQQ&usqp=CAU"
+ alt="">
+ </td>
+ </tr>
+ <tr>
+ <td colspan="4">
+ <footer id="foot">
+ <h4>Contact Us : </h4>
+ <p>Deen Dayal Upadhyaya College
+ Sector-3, Dwarka
+ New Delhi-110078.
+ Principal Office : 011-41805580
+ Administration : 011-45051037
+ Library : 011-45063987
+ Computer Centre : 011-43060977
+ Principal Office (E-mail) :
+ principaldducollege@ddu.du.ac.in
+ Administration (Email) :
+ office@ddu.du.ac.in</p>
+ </footer>
+ </td>
+ </tr>
+ </table>
+ </center>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+Practical 3:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Student Form</title>
+</head>
+<body>
+ <H1 style="text-align: center;">STUDENT FORM</H1>
+ <form name="myForm" action="report.php" onsubmit=" "
+method="get">
+ <div class="form" id="name">
+ name : <input type="text" name="fname" > <b> <span class="formerror"></span></b><br> <br>
+ 
+ </div>
+ <div class="form" id="roll">
+ Roll no : <input type="text" name="froll"> <b> <span class="formerror"></span></b><br> <br>
+ 
+ </div>
+ <div class="form" id="email">
+ Email : <input type="text" name="femail" id="mail" ><b> <span class="formerror"></span></b><br> <br>
+ 
+ </div>
+ <div class="form" id="age">
+ Age : <input type="number" name="fage"> <b> <span class="formerror"></span></b> <br> <br>
+ 
+ </div>
+ <div class="form" id="gender">
+ <p>Gender</p>
+ Male <input type="radio" name="gender"> <br><br>
+ Female <input type="radio" name="gender"> <br><br>
+ <b> <span class="formerror"></span></b>
+ </div>
+ <div class="form" id="society">
+ <p>Societies opted</p>
+ debating society <input type="checkbox"> <br><br>
+ Dramatics society <input type="checkbox"> <br><br>
+ Singing society <input type="checkbox"> <br><br>
+ Dance society <input type="checkbox"> <br><br>
+ <b> <span class="formerror"></span></b>
+ </div>
+ <div class="form" id="address">
+ Address : <input type="textarea" name="faddress" size="100"> <b> <span class="formerror"></span></b><br><br>
+ 
+ </div>
+ <div class="form" id="image">
+ upload your image : <input type="file" name="fimg" id=""> <b> <span class="formerror"></span></b><br> <br>
+ 
+ </div>
+ <input type="submit" name="button">
+ <input type="reset" name="button">
+ </form>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Css practical 1
+body {
+    background-color: aqua;
+   }
+   h1,
+   h4 {
+    color: darkblue;
+   }
+   .image img {
+    border: 1px solid red;
+   }
+   .poster img{
+    border: 1px solid red;
+   }
+   p{
+   font-family: Arial, Helvetica, sans-serif;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Practical 2:
+   table{
+    border: solid red 1px;
+   }
+   td{
+    border: solid red 1px;
+   }
+   header {
+    background-color: aquamarine;
+    font-size: larger;
+   }
+   footer {
+    background-color: darkblue;
+    color: white;
+    font-size: larger;
+   }
+   nav {
+    background-color: aqua;
+    text-transform: uppercase;
+   }
+   #message{
+    background-color: lightskyblue;
+    color:brown;
+    
+   }
+   #message p{
+    font-style: italic;
+   }
+   #notice{
+    background-color: lightskyblue;
+    color:brown ;
+   }
+   #notice ul{
+    font-weight: bold;
+   }   
